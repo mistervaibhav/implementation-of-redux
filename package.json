@@ -1,8 +1,8 @@
 {
-  "name": "forge-redux",
+  "name": "clone-of-redux",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:mistervaibhav/forge-redux.git",
+  "repository": "git@github.com:mistervaibhav/clone-of-redux.git",
   "author": "mistervaibhav <singhvaibhavofficial@gmail.com>",
   "keywords": [],
   "license": "ISC",
